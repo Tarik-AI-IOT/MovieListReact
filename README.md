@@ -1,16 +1,45 @@
-# React + Vite
+# 🎬 Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React web application that allows users to browse movie titles and save their favorite movies for easy access.
 
-Currently, two official plugins are available:
+This app focuses on **discovery and organization**, not streaming — users can search for movies, view posters, and manage a favorites list.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Demo
+👉 https://your-project-name.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Movie App Screenshot](./screenshots/movie-app.png)
+
+---
+
+## ✨ Features
+
+- 🔍 Search for movies by title
+- 🎞 View movie posters and titles
+- ❤️ Add and remove movies from favorites
+- ⚡ Fast and responsive UI
+- 🧭 Simple navigation (Home / Favorites)
+
+---
+
+## 🛠 Tech Stack
+
+- **React**
+- **Vite**
+- **JavaScript**
+- **CSS**
+- **Movie API** (TMDB)
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/movie-app.git
+cd movie-app
