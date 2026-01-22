@@ -7,7 +7,7 @@ This app focuses on **discovery and organization**, not streaming — users can 
 ---
 
 ## 🚀 Live Demo
-👉 https://your-project-name.vercel.app
+👉 https://movie-list-tarik.vercel.app/
 
 ---
 
@@ -42,4 +42,4 @@ This app focuses on **discovery and organization**, not streaming — users can 
 Clone the repository:
 ```bash
 git clone https://github.com/your-username/movie-app.git
-cd movie-app
+cd React_Movie/frontend
